@@ -1,6 +1,6 @@
 package Model;
 
-public class TV {
+public class TV extends Media {
   private String mRating;
     private int mTime;
 
